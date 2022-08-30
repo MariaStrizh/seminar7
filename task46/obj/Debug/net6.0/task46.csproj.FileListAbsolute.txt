@@ -1,0 +1,16 @@
+C:\Users\moov\Desktop\Учеба\seminar7\task46\obj\Debug\net6.0\task46.GlobalUsings.g.cs
+C:\Users\moov\Desktop\Учеба\seminar7\task46\obj\Debug\net6.0\task46.csproj.AssemblyReference.cache
+C:\Users\moov\Desktop\Учеба\seminar7\task46\obj\Debug\net6.0\task46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moov\Desktop\Учеба\seminar7\task46\obj\Debug\net6.0\task46.AssemblyInfoInputs.cache
+C:\Users\moov\Desktop\Учеба\seminar7\task46\obj\Debug\net6.0\task46.AssemblyInfo.cs
+C:\Users\moov\Desktop\Учеба\seminar7\task46\obj\Debug\net6.0\task46.csproj.CoreCompileInputs.cache
+C:\Users\moov\Desktop\Учеба\seminar7\task46\bin\Debug\net6.0\task46.exe
+C:\Users\moov\Desktop\Учеба\seminar7\task46\bin\Debug\net6.0\task46.deps.json
+C:\Users\moov\Desktop\Учеба\seminar7\task46\bin\Debug\net6.0\task46.runtimeconfig.json
+C:\Users\moov\Desktop\Учеба\seminar7\task46\bin\Debug\net6.0\task46.dll
+C:\Users\moov\Desktop\Учеба\seminar7\task46\bin\Debug\net6.0\ref\task46.dll
+C:\Users\moov\Desktop\Учеба\seminar7\task46\bin\Debug\net6.0\task46.pdb
+C:\Users\moov\Desktop\Учеба\seminar7\task46\obj\Debug\net6.0\task46.dll
+C:\Users\moov\Desktop\Учеба\seminar7\task46\obj\Debug\net6.0\ref\task46.dll
+C:\Users\moov\Desktop\Учеба\seminar7\task46\obj\Debug\net6.0\task46.pdb
+C:\Users\moov\Desktop\Учеба\seminar7\task46\obj\Debug\net6.0\task46.genruntimeconfig.cache
